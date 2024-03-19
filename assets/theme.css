@@ -24124,6 +24124,13 @@ body.has-header-sticky .timeline {
 .index-product .product__content {
 	padding: 20px;
 }
+
+/* Definining the color of the variant boxes */
+.index-product .radio__fieldset .radio__button input:checked ~ label {
+	border-color: var(--primary);
+	background-color: var(--primary);
+	color: white;
+  }
   
 /* Adjusting the grid columns on large sizes for the product page */
 @media only screen and (min-width: 1299px) {
