@@ -20,11 +20,14 @@
     },
     "featured-collection": {
       "type": "section-collection",
+      "custom_css": [
+
+      ],
       "settings": {
-        "heading": "NEW RELEASES",
+        "heading": "",
         "description": "",
         "layout": "inline",
-        "link_text": "VIEW NEW RELEASES",
+        "link_text": "",
         "link_url": "",
         "button_type": "btn--primary",
         "button_size": "",
@@ -38,135 +41,7 @@
         "layout_mobile": "slider",
         "bg_color": "",
         "color": "",
-        "padding_top": 30,
-        "padding_bottom": 0
-      }
-    },
-    "section_custom_content_77n7qi": {
-      "type": "section-custom-content",
-      "blocks": {
-        "image_b3zbhU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Enchanting_Dresses.jpg",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "show_overlay_text": false,
-            "title": "",
-            "heading_size": 7,
-            "description": "",
-            "text_size": 3,
-            "flex_align": "align--middle-center",
-            "bg_color": "",
-            "color": "#ffffff",
-            "link_text": "",
-            "link": "shopify:\/\/collections\/womens-halloween-dresses",
-            "button_type": "btn--primary",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
-        },
-        "image_mqREkw": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Female_3.jpg",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "show_overlay_text": false,
-            "title": "",
-            "heading_size": 7,
-            "description": "",
-            "text_size": 3,
-            "flex_align": "align--middle-center",
-            "bg_color": "",
-            "color": "#ffffff",
-            "link_text": "",
-            "link": "shopify:\/\/collections\/female-costumes",
-            "button_type": "btn--primary",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
-        }
-      },
-      "block_order": [
-        "image_b3zbhU",
-        "image_mqREkw"
-      ],
-      "disabled": true,
-      "settings": {
-        "height": "screen-height-two-thirds",
-        "mobile_height": "screen-height-one-third--mobile",
-        "width": "wrapper--full",
-        "borders": false,
-        "gutters": true,
-        "reverse_blocks": false,
         "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "image-with-text": {
-      "type": "section-custom-content",
-      "blocks": {
-        "image": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Shine_in_Latex.jpg",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "show_overlay_text": false,
-            "title": "",
-            "heading_size": 7,
-            "description": "",
-            "text_size": 3,
-            "flex_align": "align--middle-left",
-            "bg_color": "",
-            "color": "#ffffff",
-            "link_text": "",
-            "link": "shopify:\/\/collections\/shine-n-latex",
-            "button_type": "btn--white",
-            "button_size": "",
-            "button_style": "btn--outline",
-            "show_arrow": false
-          }
-        },
-        "image_8UK7CX": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Male_1.jpg",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "show_overlay_text": false,
-            "title": "",
-            "heading_size": 7,
-            "description": "",
-            "text_size": 3,
-            "flex_align": "align--middle-center",
-            "bg_color": "",
-            "color": "#ffffff",
-            "link_text": "",
-            "link": "shopify:\/\/collections\/mens-halloween-costumes",
-            "button_type": "btn--primary",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
-        }
-      },
-      "block_order": [
-        "image",
-        "image_8UK7CX"
-      ],
-      "disabled": true,
-      "settings": {
-        "height": "screen-height-two-thirds",
-        "mobile_height": "screen-height-one-third--mobile",
-        "width": "wrapper--full",
-        "borders": false,
-        "gutters": true,
-        "reverse_blocks": false,
-        "padding_top": 20,
         "padding_bottom": 0
       }
     },
@@ -258,7 +133,8 @@
       ],
       "custom_css": [
         ".wrapper--full-padded {padding-left: 0; padding-right: 0;}",
-        ".wrapper--full-padded .grid-item {padding: 0;}"
+        ".wrapper--full-padded .grid-item {padding: 0;}",
+        ".wrapper--full-padded .grid-item .column__image {margin-bottom: 0;}"
       ],
       "settings": {
         "title": "",
@@ -273,6 +149,157 @@
         "padding_top": 0,
         "padding_bottom": 0,
         "layout_mobile": "slider"
+      }
+    },
+    "section_custom_content_77n7qi": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_b3zbhU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Enchanting_Dresses.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "show_overlay_text": false,
+            "title": "",
+            "heading_size": 7,
+            "description": "",
+            "text_size": 3,
+            "flex_align": "align--middle-center",
+            "bg_color": "",
+            "color": "#ffffff",
+            "link_text": "",
+            "link": "shopify:\/\/collections\/womens-halloween-dresses",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "image_mqREkw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Female_3.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "show_overlay_text": false,
+            "title": "",
+            "heading_size": 7,
+            "description": "",
+            "text_size": 3,
+            "flex_align": "align--middle-center",
+            "bg_color": "",
+            "color": "#ffffff",
+            "link_text": "",
+            "link": "shopify:\/\/collections\/female-costumes",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image_b3zbhU",
+        "image_mqREkw"
+      ],
+      "settings": {
+        "height": "screen-height-two-thirds",
+        "mobile_height": "screen-height-one-third--mobile",
+        "width": "wrapper--full",
+        "borders": false,
+        "gutters": false,
+        "reverse_blocks": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_collection_Pbtr8p": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "mens-halloween-costumes",
+        "layout_desktop": "slider",
+        "grid": 6,
+        "rows": 3,
+        "width": "wrapper",
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image-with-text": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shine_in_Latex.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "show_overlay_text": false,
+            "title": "",
+            "heading_size": 7,
+            "description": "",
+            "text_size": 3,
+            "flex_align": "align--middle-left",
+            "bg_color": "",
+            "color": "#ffffff",
+            "link_text": "",
+            "link": "shopify:\/\/collections\/shine-n-latex",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--outline",
+            "show_arrow": false
+          }
+        },
+        "image_8UK7CX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Male_1.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "show_overlay_text": false,
+            "title": "",
+            "heading_size": 7,
+            "description": "",
+            "text_size": 3,
+            "flex_align": "align--middle-center",
+            "bg_color": "",
+            "color": "#ffffff",
+            "link_text": "",
+            "link": "shopify:\/\/collections\/mens-halloween-costumes",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image",
+        "image_8UK7CX"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "screen-height-two-thirds",
+        "mobile_height": "screen-height-one-third--mobile",
+        "width": "wrapper--full",
+        "borders": false,
+        "gutters": true,
+        "reverse_blocks": false,
+        "padding_top": 20,
+        "padding_bottom": 0
       }
     },
     "section_custom_code_KYTmUT": {
@@ -312,9 +339,10 @@
   "order": [
     "hero",
     "featured-collection",
-    "section_custom_content_77n7qi",
-    "image-with-text",
     "section_multicolumn_Wm8mUG",
+    "section_custom_content_77n7qi",
+    "section_collection_Pbtr8p",
+    "image-with-text",
     "section_custom_code_KYTmUT",
     "1710760849a2c28a1e"
   ]
