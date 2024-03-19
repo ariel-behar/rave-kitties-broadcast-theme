@@ -39,7 +39,7 @@
         "bg_color": "",
         "color": "",
         "padding_top": 30,
-        "padding_bottom": 50
+        "padding_bottom": 0
       }
     },
     "section_custom_content_77n7qi": {
@@ -170,39 +170,6 @@
         "padding_bottom": 0
       }
     },
-    "section_custom_code_KYTmUT": {
-      "type": "section-custom-code",
-      "settings": {
-        "code": "<div id=\"follow-us-on-instagram-div\" class=\"hero__content hero__content--compact text-center\">\n<p class=\"hero__subheading subheading-size-5 aos-animate\" data-aos=\"hero\" data-aos-anchor=\"#BrickSection--template--20883765625165__section_custom_content_mhrxr6\" data-aos-order=\"1\" style=\"font-weight: bold\">FOLLOW US on INSTAGRAM<\/p>\n\n<div class=\"hero__button aos-animate\" data-aos=\"hero\" data-aos-anchor=\"#BrickSection--template--20883765625165__section_custom_content_mhrxr6\" data-aos-order=\"2\">\n          <a href=\"https:\/\/www.instagram.com\/ravekitties.wear\/\" class=\"btn btn--text btn--text-no-underline  btn--primary\">\n            <span>@ravekitties.wear<\/span><svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-arrow-right\" viewBox=\"0 0 24 24\"><path d=\"M6 12h12.5m0 0-6-6m6 6-6 6\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path><\/svg><\/a>\n        <\/div>\n<\/div>",
-        "width": "wrapper",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 30,
-        "padding_bottom": 30
-      }
-    },
-    "1710760849a2c28a1e": {
-      "type": "apps",
-      "blocks": {
-        "instafeed_app_block_BDbKJX": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
-          "settings": {
-            "title": "",
-            "title_color": "",
-            "title_size": 40,
-            "alignment": "center",
-            "margin_top": 0,
-            "html_area": ""
-          }
-        }
-      },
-      "block_order": [
-        "instafeed_app_block_BDbKJX"
-      ],
-      "settings": {
-        "include_margins": false
-      }
-    },
     "section_multicolumn_Wm8mUG": {
       "type": "section-multicolumn",
       "blocks": {
@@ -302,9 +269,42 @@
         "width": "wrapper--full-padded",
         "bg_color": "",
         "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "layout_mobile": "slider"
+      }
+    },
+    "section_custom_code_KYTmUT": {
+      "type": "section-custom-code",
+      "settings": {
+        "code": "<div id=\"follow-us-on-instagram-div\" class=\"hero__content hero__content--compact text-center\">\n<p class=\"hero__subheading subheading-size-5 aos-animate\" data-aos=\"hero\" data-aos-anchor=\"#BrickSection--template--20883765625165__section_custom_content_mhrxr6\" data-aos-order=\"1\" style=\"font-weight: bold\">FOLLOW US on INSTAGRAM<\/p>\n\n<div class=\"hero__button aos-animate\" data-aos=\"hero\" data-aos-anchor=\"#BrickSection--template--20883765625165__section_custom_content_mhrxr6\" data-aos-order=\"2\">\n          <a href=\"https:\/\/www.instagram.com\/ravekitties.wear\/\" class=\"btn btn--text btn--text-no-underline  btn--primary\">\n            <span>@ravekitties.wear<\/span><svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-arrow-right\" viewBox=\"0 0 24 24\"><path d=\"M6 12h12.5m0 0-6-6m6 6-6 6\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path><\/svg><\/a>\n        <\/div>\n<\/div>",
+        "width": "wrapper",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 30,
+        "padding_bottom": 30
+      }
+    },
+    "1710760849a2c28a1e": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_BDbKJX": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size": 40,
+            "alignment": "center",
+            "margin_top": 0,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_BDbKJX"
+      ],
+      "settings": {
+        "include_margins": false
       }
     }
   },
@@ -313,8 +313,8 @@
     "featured-collection",
     "section_custom_content_77n7qi",
     "image-with-text",
+    "section_multicolumn_Wm8mUG",
     "section_custom_code_KYTmUT",
-    "1710760849a2c28a1e",
-    "section_multicolumn_Wm8mUG"
+    "1710760849a2c28a1e"
   ]
 }
