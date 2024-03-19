@@ -24092,13 +24092,13 @@ body.has-header-sticky .timeline {
 /* Making the slider images for the Related and Recently viewed products smaller */
 .grid--slider .grid-item.product-item {
 	max-width: 400px;
-  }
+}
   
-  @media only screen and (max-width: 749px) {
-	  .grid--slider.grid--mobile-slider .grid-item.product-item {
-		  width: calc(100% - 200px);
-		}
-  }
+@media only screen and (max-width: 749px) {
+	.grid--slider .grid-item.product-item {
+		max-width: 300px;
+	}
+}
 
 /*----- HOME PAGE -----*/
 /* Adding additional styles to the Follow us on Instagram title on mobile and desktop */
