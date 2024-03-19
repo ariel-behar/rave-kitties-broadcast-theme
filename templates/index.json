@@ -94,6 +94,7 @@
         "image_b3zbhU",
         "image_mqREkw"
       ],
+      "disabled": true,
       "settings": {
         "height": "screen-height-two-thirds",
         "mobile_height": "screen-height-one-third--mobile",
@@ -157,6 +158,7 @@
         "image",
         "image_8UK7CX"
       ],
+      "disabled": true,
       "settings": {
         "height": "screen-height-two-thirds",
         "mobile_height": "screen-height-one-third--mobile",
@@ -200,6 +202,110 @@
       "settings": {
         "include_margins": false
       }
+    },
+    "section_multicolumn_Wm8mUG": {
+      "type": "section-multicolumn",
+      "blocks": {
+        "image_7UCddP": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/example-banner-525x814_candywoman.png",
+            "image_aspect_ratio": 1.5,
+            "mobile_image_aspect_ratio": 1.5,
+            "image_shape": "normal",
+            "title": "",
+            "heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "button_text": "",
+            "button_url": "#",
+            "button_type": "btn--primary hero__btn",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "image_BTiBCx": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/example-banner-525x814_candywoman.png",
+            "image_aspect_ratio": 1.5,
+            "mobile_image_aspect_ratio": 1.5,
+            "image_shape": "normal",
+            "title": "",
+            "heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "button_text": "",
+            "button_url": "#",
+            "button_type": "btn--primary hero__btn",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "image_tND6mj": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/example-banner-525x814_candywoman.png",
+            "image_aspect_ratio": 1.5,
+            "mobile_image_aspect_ratio": 1.5,
+            "image_shape": "normal",
+            "title": "",
+            "heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "button_text": "",
+            "button_url": "#",
+            "button_type": "btn--primary hero__btn",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "image_whyGjt": {
+          "type": "image",
+          "settings": {
+            "column_width": 25,
+            "image": "shopify:\/\/shop_images\/example-banner-525x814_candywoman.png",
+            "image_aspect_ratio": 1.5,
+            "mobile_image_aspect_ratio": 1.5,
+            "image_shape": "normal",
+            "title": "",
+            "heading_size": 4,
+            "text": "",
+            "text_size": 3,
+            "button_text": "",
+            "button_url": "#",
+            "button_type": "btn--primary hero__btn",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image_7UCddP",
+        "image_BTiBCx",
+        "image_tND6mj",
+        "image_whyGjt"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "description": "",
+        "align_heading": "text-left",
+        "align_text": "text-left",
+        "align_columns": "flex-align-center",
+        "width": "wrapper--full-padded",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "layout_mobile": "slider"
+      }
     }
   },
   "order": [
@@ -208,6 +314,7 @@
     "section_custom_content_77n7qi",
     "image-with-text",
     "section_custom_code_KYTmUT",
-    "1710760849a2c28a1e"
+    "1710760849a2c28a1e",
+    "section_multicolumn_Wm8mUG"
   ]
 }
