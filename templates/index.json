@@ -1,1 +1,213 @@
-{"sections":{"hero":{"type":"section-hero","blocks":{"heading":{"type":"heading","settings":{"title":"Broadcast theme","heading_size":9}},"text":{"type":"text","settings":{"description":"Modern commerce built for speed","text_size":5,"text_style":"font-body"}},"button":{"type":"button","settings":{"link_text":"View products","link":"shopify:\/\/collections\/all","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":true}}},"block_order":["heading","text","button"],"settings":{"height":"screen-height-full","width":"wrapper--full","image_1":"shopify:\/\/shop_images\/banner1_copy.jpg","link":"","mobile_height":"screen-height-three-quarters--mobile","mobile_image":"shopify:\/\/shop_images\/mobile1_copy.jpg","flex_align_desktop":"align--middle-center-desktop","flex_align_mobile":"align--middle-center-mobile","overlay_opacity":25,"overlay_color":"#000000","show_overlay_text":false,"bg_color":"","color":"#ffffff"}},"featured-collection":{"type":"section-collection","settings":{"heading":"NEW RELEASES","description":"","layout":"inline","link_text":"VIEW NEW RELEASES","link_url":"","button_type":"btn--primary","button_size":"","button_style":"btn--text","show_arrow":true,"featured_collection":"female-costumes","layout_desktop":"slider","grid":6,"rows":2,"width":"wrapper--full-padded","layout_mobile":"slider","bg_color":"","color":"","padding_top":30,"padding_bottom":50}},"section_custom_content_77n7qi":{"type":"section-custom-content","blocks":{"image_b3zbhU":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Enchanting_Dresses.jpg","overlay_opacity":0,"overlay_color":"#000000","show_overlay_text":false,"title":"","heading_size":7,"description":"","text_size":3,"flex_align":"align--middle-center","bg_color":"","color":"#ffffff","link_text":"","link":"shopify:\/\/collections\/womens-halloween-dresses","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false}},"image_mqREkw":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Female_3.jpg","overlay_opacity":0,"overlay_color":"#000000","show_overlay_text":false,"title":"","heading_size":7,"description":"","text_size":3,"flex_align":"align--middle-center","bg_color":"","color":"#ffffff","link_text":"","link":"shopify:\/\/collections\/female-costumes","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false}}},"block_order":["image_b3zbhU","image_mqREkw"],"settings":{"height":"screen-height-two-thirds","mobile_height":"screen-height-one-third--mobile","width":"wrapper--full","borders":false,"gutters":true,"reverse_blocks":false,"padding_top":0,"padding_bottom":0}},"image-with-text":{"type":"section-custom-content","blocks":{"image":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Shine_in_Latex.jpg","overlay_opacity":0,"overlay_color":"#000000","show_overlay_text":false,"title":"","heading_size":7,"description":"","text_size":3,"flex_align":"align--middle-left","bg_color":"","color":"#ffffff","link_text":"","link":"shopify:\/\/collections\/shine-n-latex","button_type":"btn--white","button_size":"","button_style":"btn--outline","show_arrow":false}},"image_8UK7CX":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Male_1.jpg","overlay_opacity":0,"overlay_color":"#000000","show_overlay_text":false,"title":"","heading_size":7,"description":"","text_size":3,"flex_align":"align--middle-center","bg_color":"","color":"#ffffff","link_text":"","link":"shopify:\/\/collections\/mens-halloween-costumes","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false}}},"block_order":["image","image_8UK7CX"],"settings":{"height":"screen-height-two-thirds","mobile_height":"screen-height-one-third--mobile","width":"wrapper--full","borders":false,"gutters":true,"reverse_blocks":false,"padding_top":20,"padding_bottom":0}},"section_custom_code_KYTmUT":{"type":"section-custom-code","settings":{"code":"<div id=\"follow-us-on-instagram-div\" class=\"hero__content hero__content--compact text-center\">\n<p class=\"hero__subheading subheading-size-5 aos-animate\" data-aos=\"hero\" data-aos-anchor=\"#BrickSection--template--20883765625165__section_custom_content_mhrxr6\" data-aos-order=\"1\" style=\"font-weight: bold\">FOLLOW US on INSTAGRAM<\/p>\n\n<div class=\"hero__button aos-animate\" data-aos=\"hero\" data-aos-anchor=\"#BrickSection--template--20883765625165__section_custom_content_mhrxr6\" data-aos-order=\"2\">\n          <a href=\"https:\/\/www.instagram.com\/ravekitties.wear\/\" class=\"btn btn--text btn--text-no-underline  btn--primary\">\n            <span>@ravekitties.wear<\/span><svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-arrow-right\" viewBox=\"0 0 24 24\"><path d=\"M6 12h12.5m0 0-6-6m6 6-6 6\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path><\/svg><\/a>\n        <\/div>\n<\/div>","width":"wrapper","bg_color":"","color":"","padding_top":30,"padding_bottom":30}},"1710760849a2c28a1e":{"type":"apps","blocks":{"instafeed_app_block_BDbKJX":{"type":"shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5","settings":{"title":"","title_color":"","title_size":40,"alignment":"center","margin_top":0,"html_area":""}}},"block_order":["instafeed_app_block_BDbKJX"],"settings":{"include_margins":false}}},"order":["hero","featured-collection","section_custom_content_77n7qi","image-with-text","section_custom_code_KYTmUT","1710760849a2c28a1e"]}
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "settings": {
+        "height": "screen-height-full",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/banner1_copy.jpg",
+        "link": "#",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "mobile_image": "shopify:\/\/shop_images\/mobile1_copy.jpg",
+        "flex_align_desktop": "align--middle-center-desktop",
+        "flex_align_mobile": "align--middle-center-mobile",
+        "overlay_opacity": 25,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "featured-collection": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "NEW RELEASES",
+        "description": "",
+        "layout": "inline",
+        "link_text": "VIEW NEW RELEASES",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--text",
+        "show_arrow": true,
+        "featured_collection": "female-costumes",
+        "layout_desktop": "slider",
+        "grid": 6,
+        "rows": 2,
+        "width": "wrapper--full-padded",
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 30,
+        "padding_bottom": 50
+      }
+    },
+    "section_custom_content_77n7qi": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_b3zbhU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Enchanting_Dresses.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "show_overlay_text": false,
+            "title": "",
+            "heading_size": 7,
+            "description": "",
+            "text_size": 3,
+            "flex_align": "align--middle-center",
+            "bg_color": "",
+            "color": "#ffffff",
+            "link_text": "",
+            "link": "shopify:\/\/collections\/womens-halloween-dresses",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "image_mqREkw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Female_3.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "show_overlay_text": false,
+            "title": "",
+            "heading_size": 7,
+            "description": "",
+            "text_size": 3,
+            "flex_align": "align--middle-center",
+            "bg_color": "",
+            "color": "#ffffff",
+            "link_text": "",
+            "link": "shopify:\/\/collections\/female-costumes",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image_b3zbhU",
+        "image_mqREkw"
+      ],
+      "settings": {
+        "height": "screen-height-two-thirds",
+        "mobile_height": "screen-height-one-third--mobile",
+        "width": "wrapper--full",
+        "borders": false,
+        "gutters": true,
+        "reverse_blocks": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image-with-text": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shine_in_Latex.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "show_overlay_text": false,
+            "title": "",
+            "heading_size": 7,
+            "description": "",
+            "text_size": 3,
+            "flex_align": "align--middle-left",
+            "bg_color": "",
+            "color": "#ffffff",
+            "link_text": "",
+            "link": "shopify:\/\/collections\/shine-n-latex",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--outline",
+            "show_arrow": false
+          }
+        },
+        "image_8UK7CX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Male_1.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "show_overlay_text": false,
+            "title": "",
+            "heading_size": 7,
+            "description": "",
+            "text_size": 3,
+            "flex_align": "align--middle-center",
+            "bg_color": "",
+            "color": "#ffffff",
+            "link_text": "",
+            "link": "shopify:\/\/collections\/mens-halloween-costumes",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image",
+        "image_8UK7CX"
+      ],
+      "settings": {
+        "height": "screen-height-two-thirds",
+        "mobile_height": "screen-height-one-third--mobile",
+        "width": "wrapper--full",
+        "borders": false,
+        "gutters": true,
+        "reverse_blocks": false,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "section_custom_code_KYTmUT": {
+      "type": "section-custom-code",
+      "settings": {
+        "code": "<div id=\"follow-us-on-instagram-div\" class=\"hero__content hero__content--compact text-center\">\n<p class=\"hero__subheading subheading-size-5 aos-animate\" data-aos=\"hero\" data-aos-anchor=\"#BrickSection--template--20883765625165__section_custom_content_mhrxr6\" data-aos-order=\"1\" style=\"font-weight: bold\">FOLLOW US on INSTAGRAM<\/p>\n\n<div class=\"hero__button aos-animate\" data-aos=\"hero\" data-aos-anchor=\"#BrickSection--template--20883765625165__section_custom_content_mhrxr6\" data-aos-order=\"2\">\n          <a href=\"https:\/\/www.instagram.com\/ravekitties.wear\/\" class=\"btn btn--text btn--text-no-underline  btn--primary\">\n            <span>@ravekitties.wear<\/span><svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-arrow-right\" viewBox=\"0 0 24 24\"><path d=\"M6 12h12.5m0 0-6-6m6 6-6 6\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path><\/svg><\/a>\n        <\/div>\n<\/div>",
+        "width": "wrapper",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 30,
+        "padding_bottom": 30
+      }
+    },
+    "1710760849a2c28a1e": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_BDbKJX": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size": 40,
+            "alignment": "center",
+            "margin_top": 0,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_BDbKJX"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "featured-collection",
+    "section_custom_content_77n7qi",
+    "image-with-text",
+    "section_custom_code_KYTmUT",
+    "1710760849a2c28a1e"
+  ]
+}
