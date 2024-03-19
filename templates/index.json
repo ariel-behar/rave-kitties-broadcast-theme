@@ -21,7 +21,7 @@
     "featured-collection": {
       "type": "section-collection",
       "custom_css": [
-        ".grid-item {max-height: 541.828px;}"
+
       ],
       "settings": {
         "heading": "NEW RELEASES",
