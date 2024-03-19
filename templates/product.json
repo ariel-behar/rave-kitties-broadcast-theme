@@ -94,7 +94,7 @@
           "type": "tab_richtext",
           "settings": {
             "show_read_more": false,
-            "style": "tabs",
+            "style": "accordions",
             "title_1": "SIZE & FIT",
             "raw_content_1": "<p>NEED TO IMPLEMENT SIZE CHART<\/p>",
             "title_2": "Info",
