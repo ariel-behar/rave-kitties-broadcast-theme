@@ -56,7 +56,7 @@
         "show_country_name": false,
         "show_country_flag": false,
         "highlight_item": "Sale",
-        "highlight_item_color": "#f4df28",
+        "highlight_item_color": "#c4af00",
         "transparent_home": true,
         "transparent_product_page": false,
         "transparent_collection": false,
