@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "shopify theme dev --store ravekitties.myshopify.com"
+    "dev": "shopify theme dev --store a9e6f7.myshopify.com"
   },
   "keywords": [],
   "author": "",

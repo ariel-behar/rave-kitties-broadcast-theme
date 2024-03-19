@@ -2,5 +2,9 @@
     "[liquid]": {
         "editor.defaultFormatter": "Shopify.theme-check-vscode",
         "editor.formatOnSave": false,
-    }
+    },
+    "cSpell.ignoreWords": [
+        "myshopify",
+        "ravekitties"
+    ]
 }
