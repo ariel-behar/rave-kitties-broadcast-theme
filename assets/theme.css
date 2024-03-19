@@ -24073,6 +24073,20 @@ body.has-header-sticky .timeline {
 }
 
 /*! ============ Add any custom styles below this line ================== */
+/*----- HEADER -----*/
+/* Reordering the icons */
+/* Account icon */
+.header__desktop__buttons.header__desktop__buttons--icons .header__desktop__button:nth-of-type(1) {
+	order: 2
+}
+/* Search icon */
+.header__desktop__buttons.header__desktop__buttons--icons .header__desktop__button:nth-of-type(2) {
+	order: 1
+}
+/* Cart icon */
+.header__desktop__buttons.header__desktop__buttons--icons .header__desktop__button:nth-of-type(3) {
+	order: 3
+}
 
 /*----- HOME PAGE -----*/
 /* Adding additional styles to the Follow us on Instagram title on mobile and desktop */
