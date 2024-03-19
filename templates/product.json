@@ -17,6 +17,18 @@
             "padding_bottom": 16
           }
         },
+        "popup_eNhUxf": {
+          "type": "popup",
+          "settings": {
+            "title": "Size Chart",
+            "text": "",
+            "page": "sizing-charts",
+            "icon_name": "icon-ruler",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "padding_bottom": 16
+          }
+        },
         "variants": {
           "type": "variants",
           "settings": {
@@ -40,7 +52,7 @@
           "settings": {
             "icon_name": "icon-planet",
             "icon_size": 20,
-            "icon_color": "#ec407a",
+            "icon_color": "#0097a7",
             "title": "Exclusive Limited-Edition Prints",
             "text_size": 3,
             "width": "full",
@@ -52,7 +64,7 @@
           "settings": {
             "icon_name": "icon-ruler",
             "icon_size": 20,
-            "icon_color": "#ec407a",
+            "icon_color": "#0097a7",
             "title": "Tested for Perfect Fit on Multiple Bodies",
             "text_size": 3,
             "width": "full",
@@ -64,7 +76,7 @@
           "settings": {
             "icon_name": "icon-heart",
             "icon_size": 20,
-            "icon_color": "#ec407a",
+            "icon_color": "#0097a7",
             "title": "Second-Skin Feel with Top-Tier Fabrics",
             "text_size": 3,
             "width": "full",
@@ -76,7 +88,7 @@
           "settings": {
             "icon_name": "icon-shield",
             "icon_size": 20,
-            "icon_color": "#ec407a",
+            "icon_color": "#0097a7",
             "title": "Safe & Secure Checkout",
             "text_size": 3,
             "width": "full",
@@ -130,6 +142,7 @@
       "block_order": [
         "title",
         "price",
+        "popup_eNhUxf",
         "variants",
         "buttons",
         "icon_1",
