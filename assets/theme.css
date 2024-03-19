@@ -24088,6 +24088,18 @@ body.has-header-sticky .timeline {
 	order: 3
 }
 
+/*----- GENERAL -----*/
+/* Making the slider images for the Related and Recently viewed products smaller */
+.grid--slider .grid-item.product-item {
+	max-width: 400px;
+  }
+  
+  @media only screen and (max-width: 749px) {
+	  .grid--slider.grid--mobile-slider .grid-item.product-item {
+		  width: calc(100% - 200px);
+		}
+  }
+
 /*----- HOME PAGE -----*/
 /* Adding additional styles to the Follow us on Instagram title on mobile and desktop */
 #follow-us-on-instagram-div {
@@ -24104,13 +24116,19 @@ body.has-header-sticky .timeline {
 }
 
 /*----- PRODUCT PAGE -----*/
-/* Making the slider images for the Related and Recently viewed products smaller */
-.grid--slider .grid-item.product-item {
-  max-width: 400px;
+/* Adjusting margins and paddings for the product form */
+.index-product .product__wrapper {
+	margin: 0;
 }
-
-@media only screen and (max-width: 749px) {
-	.grid--slider.grid--mobile-slider .grid-item.product-item {
-		width: calc(100% - 200px);
-	  }
+  
+.index-product .product__content {
+	padding: 20px;
 }
+  
+/* Adjusting the grid columns on large sizes for the product page */
+@media only screen and (min-width: 1299px) {
+	.product__wrapper--stretch .product__page {
+	  grid-template-columns: 2fr 1fr;
+	}
+}
+  
