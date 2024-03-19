@@ -257,7 +257,8 @@
         "image_whyGjt"
       ],
       "custom_css": [
-
+        ".wrapper--full-padded {padding-left: 0; padding-right: 0;}",
+        ".wrapper--full-padded .grid-item {padding: 0;}"
       ],
       "settings": {
         "title": "",
