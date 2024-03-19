@@ -24088,3 +24088,13 @@ body.has-header-sticky .timeline {
         flex-direction: column;
     }
 }
+
+/* Removing the padding of the Multicolumn Banners on the home page */
+#SectionColumns--template--21151853478236__section_multicolumn_Wm8mUG .wrapper--full-padded {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#SectionColumns--template--21151853478236__section_multicolumn_Wm8mUG .wrapper--full-padded .grid-item {
+	padding: 0;
+}
