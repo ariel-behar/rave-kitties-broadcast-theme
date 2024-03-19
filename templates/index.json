@@ -214,6 +214,30 @@
         "padding_bottom": 0
       }
     },
+    "section_collection_Pbtr8p": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "mens-halloween-costumes",
+        "layout_desktop": "slider",
+        "grid": 6,
+        "rows": 3,
+        "width": "wrapper",
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
     "image-with-text": {
       "type": "section-custom-content",
       "blocks": {
@@ -317,6 +341,7 @@
     "featured-collection",
     "section_multicolumn_Wm8mUG",
     "section_custom_content_77n7qi",
+    "section_collection_Pbtr8p",
     "image-with-text",
     "section_custom_code_KYTmUT",
     "1710760849a2c28a1e"
