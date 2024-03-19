@@ -17,6 +17,18 @@
             "padding_bottom": 16
           }
         },
+        "popup_eNhUxf": {
+          "type": "popup",
+          "settings": {
+            "title": "Size Chart",
+            "text": "",
+            "page": "sizing-charts",
+            "icon_name": "icon-ruler",
+            "icon_size": 20,
+            "icon_color": "#545454",
+            "padding_bottom": 16
+          }
+        },
         "variants": {
           "type": "variants",
           "settings": {
@@ -130,6 +142,7 @@
       "block_order": [
         "title",
         "price",
+        "popup_eNhUxf",
         "variants",
         "buttons",
         "icon_1",
