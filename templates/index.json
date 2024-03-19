@@ -20,6 +20,9 @@
     },
     "featured-collection": {
       "type": "section-collection",
+      "custom_css": [
+        ".grid-item {max-height: 541.828px;}"
+      ],
       "settings": {
         "heading": "NEW RELEASES",
         "description": "",
@@ -34,7 +37,7 @@
         "layout_desktop": "slider",
         "grid": 6,
         "rows": 2,
-        "width": "wrapper",
+        "width": "wrapper--full-padded",
         "layout_mobile": "slider",
         "bg_color": "",
         "color": "",
