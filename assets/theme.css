@@ -24073,3 +24073,18 @@ body.has-header-sticky .timeline {
 }
 
 /*! ============ Add any custom styles below this line ================== */
+
+/*----- HOME PAGE -----*/
+/* Adding additional styles to the Follow us on Instagram title on mobile and desktop */
+#follow-us-on-instagram-div {
+	padding: 30px 0;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+@media only screen and (max-width: 749px) {
+    #follow-us-on-instagram-div {
+        flex-direction: column;
+    }
+}
