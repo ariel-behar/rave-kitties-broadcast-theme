@@ -24074,10 +24074,6 @@ body.has-header-sticky .timeline {
 
 /*! ============ Add any custom styles below this line ================== */
 /*----- HEADER -----*/
-.header__desktop__upper .header__desktop__bar__r {
-  flex: 0 0 0;
-}
-
 /* Reordering the icons */
 /* Account icon */
 .header__desktop__buttons.header__desktop__buttons--icons .header__desktop__button:nth-of-type(1) {
