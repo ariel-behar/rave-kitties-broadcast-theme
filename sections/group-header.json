@@ -38,7 +38,7 @@
       "type": "header",
       "settings": {
         "header_sticky": true,
-        "header_style": "logo_center_menu_left",
+        "header_style": "logo_beside",
         "show_separator_line": true,
         "separator_opacity": 50,
         "show_icons": true,
