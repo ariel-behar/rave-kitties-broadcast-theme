@@ -24089,6 +24089,10 @@ body.has-header-sticky .timeline {
 }
 
 /*----- FOOTER -----*/
+.footer__logo__wrapper {
+  text-align: center;
+}
+
 .footer__quicklinks li {
   margin-bottom: 5px;
   font-size: 16px;
