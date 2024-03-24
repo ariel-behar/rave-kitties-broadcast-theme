@@ -158,28 +158,6 @@
         "image_b3zbhU": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Enchanting_Dresses.jpg",
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "show_overlay_text": false,
-            "title": "",
-            "heading_size": 7,
-            "description": "",
-            "text_size": 3,
-            "flex_align": "align--middle-center",
-            "bg_color": "",
-            "color": "#ffffff",
-            "link_text": "",
-            "link": "shopify:\/\/collections\/womens-halloween-dresses",
-            "button_type": "btn--primary",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
-        },
-        "image_mqREkw": {
-          "type": "image",
-          "settings": {
             "image": "shopify:\/\/shop_images\/Female_3.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -193,6 +171,28 @@
             "color": "#ffffff",
             "link_text": "",
             "link": "shopify:\/\/collections\/female-costumes",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "image_mqREkw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Male_1.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "show_overlay_text": false,
+            "title": "",
+            "heading_size": 7,
+            "description": "",
+            "text_size": 3,
+            "flex_align": "align--middle-center",
+            "bg_color": "",
+            "color": "#ffffff",
+            "link_text": "",
+            "link": "shopify:\/\/collections\/mens-halloween-costumes",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--solid",
