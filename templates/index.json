@@ -21,7 +21,7 @@
     "featured-collection": {
       "type": "section-collection",
       "custom_css": [
-
+        ".grid--slider {padding-left: 5px;}"
       ],
       "settings": {
         "heading": "",
