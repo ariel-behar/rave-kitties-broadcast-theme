@@ -6,7 +6,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "subheading_option": "breadcrumb",
+            "subheading_option": "none",
             "text_size": 6,
             "padding_bottom": 8
           }
