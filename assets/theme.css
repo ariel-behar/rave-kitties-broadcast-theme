@@ -24115,7 +24115,6 @@ body.has-header-sticky .timeline {
   }
 }
 
-
 /*----- GENERAL -----*/
 /* Changing the colors of the scroll to top button */
 .btn.btn--scroll-top.btn--solid.is-visible {
@@ -24149,6 +24148,13 @@ body.has-header-sticky .timeline {
         flex-direction: column;
     }
 }
+
+/*----- COLLECTION PAGE -----*/
+/* Making the padding of the filter buttons on the collection page smaller */
+.popout--group .popout__toggle, .popout--sort .popout__toggle {
+  padding: 10px 18px;
+}
+
 
 /*----- PRODUCT PAGE -----*/
 /* Adjusting margins and paddings for the product form */
