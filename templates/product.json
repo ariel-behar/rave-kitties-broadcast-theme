@@ -95,13 +95,6 @@
             "padding_bottom": 16
           }
         },
-        "divider_zqmFEh": {
-          "type": "divider",
-          "settings": {
-            "show_line": true,
-            "padding_bottom": 10
-          }
-        },
         "tabs": {
           "type": "tab_richtext",
           "settings": {
@@ -131,7 +124,6 @@
         "icon_2",
         "icon_JMLT7V",
         "icon_BkcdNc",
-        "divider_zqmFEh",
         "tabs"
       ],
       "settings": {
