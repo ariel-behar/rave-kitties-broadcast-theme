@@ -1,1 +1,32 @@
-{"sections":{"main":{"type":"search","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "search",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "sparqAppBlock": {
+      "type": "apps",
+      "blocks": {
+        "sparqAppBlock": {
+          "type": "shopify:\/\/apps\/product-filter-search-app\/blocks\/sparq-app-block\/8fd7d3d6-d46d-4322-92f0-3e36acf0ae32",
+          "settings": {
+            "template": "{{ shop.metafields.sparq.template-160256033116 }}",
+            "theme_css": "{{ shop.metafields.sparq.css-160256033116 }}",
+            "theme_js": "{{ shop.metafields.sparq.javascript-160256033116 }}"
+          }
+        }
+      },
+      "block_order": [
+        "sparqAppBlock"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sparqAppBlock"
+  ]
+}
