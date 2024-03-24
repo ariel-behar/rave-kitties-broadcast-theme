@@ -36,28 +36,6 @@
     },
     "header": {
       "type": "header",
-      "blocks": {
-        "toolbar_Hb3crn": {
-          "type": "toolbar",
-          "settings": {
-            "text": "<p>&nbsp;<\/p>",
-            "menu": "broadcast-theme-main-menu",
-            "show_border": false,
-            "border_opacity": 50,
-            "show_social_links": false,
-            "show_gift_card": false,
-            "show_locale_selector": true,
-            "show_country_selector": false,
-            "show_country_name": false,
-            "show_country_flag": false,
-            "bg_color": "#FAFAFA",
-            "color": "#333333"
-          }
-        }
-      },
-      "block_order": [
-        "toolbar_Hb3crn"
-      ],
       "settings": {
         "header_sticky": true,
         "header_style": "drawer",
