@@ -32,7 +32,7 @@
     "type_nav_size": 120,
     "type_nav_caps": false,
     "btn_font": "avenir_next_n4",
-    "btn_border_style": "square",
+    "btn_border_style": "pill",
     "btn_size": 13,
     "btn_caps": true,
     "btn_primary_bg_color": "#0097a7",
