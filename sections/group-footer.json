@@ -12,7 +12,7 @@
             "logo_social_width": 150,
             "title": "SOCIAL",
             "text": "",
-            "column_width": 33,
+            "column_width": 20,
             "enable_follow_on_shop": false
           }
         },
@@ -21,7 +21,7 @@
           "settings": {
             "linklist": "broadcast-theme-info-menu",
             "title": "INFO",
-            "column_width": 33
+            "column_width": 20
           }
         },
         "linklist_GTxHhx": {
@@ -29,7 +29,7 @@
           "settings": {
             "linklist": "about",
             "title": "",
-            "column_width": 33
+            "column_width": 20
           }
         }
       },
