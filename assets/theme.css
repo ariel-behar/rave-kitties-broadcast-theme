@@ -24089,6 +24089,11 @@ body.has-header-sticky .timeline {
 }
 
 /*----- FOOTER -----*/
+/* Adding a color to the top border of the footer */
+footer { 
+  border-top: 1px solid var(--text);
+}
+
 .footer__quicklinks li {
   margin-bottom: 5px;
   font-size: 16px;
