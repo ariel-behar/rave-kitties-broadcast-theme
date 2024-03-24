@@ -63,7 +63,6 @@
       "block_order": [
         "sparqAppBlock"
       ],
-      "disabled": true,
       "settings": {
         "include_margins": false
       }
