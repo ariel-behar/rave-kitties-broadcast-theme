@@ -51,7 +51,7 @@
     "171130453683f61a69": {
       "type": "apps",
       "blocks": {
-        "product_filter_search_app_sparq_app_block_LbF4FG": {
+        "product_filter_search_app_sparq_app_block_DjCrHd": {
           "type": "shopify:\/\/apps\/product-filter-search-app\/blocks\/sparq-app-block\/8fd7d3d6-d46d-4322-92f0-3e36acf0ae32",
           "settings": {
             "template": "{{ shop.metafields.sparq.template }}",
@@ -61,7 +61,7 @@
         }
       },
       "block_order": [
-        "product_filter_search_app_sparq_app_block_LbF4FG"
+        "product_filter_search_app_sparq_app_block_DjCrHd"
       ],
       "settings": {
         "include_margins": false
