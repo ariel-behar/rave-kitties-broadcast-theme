@@ -110,7 +110,7 @@
                 <div class="footer__block footer__block--social" style="{{ block_style }}" {{ block.shopify_attributes }}>
                   
 				{%- if block.settings.logo_social -%}
-					<img style="margin-bottom: {{ block.settings.logo_social_margin_bottom }};" src="{{ block.settings.logo_social | image_url }}" alt="Logo" width="{{ block.settings.logo_social_width }}" height="auto">
+					<img style="margin-bottom: {{ block.settings.logo_social_margin_bottom }}px;" src="{{ block.settings.logo_social | image_url }}" alt="Logo" width="{{ block.settings.logo_social_width }}" height="auto">
 				{%- endif -%}
   
 
@@ -439,7 +439,7 @@
                     "id": "logo_social_width"
                 },
 				{
-					"type": "number",
+					"type": "range",
 					"id": "logo_social_margin_bottom",
 					"label": "Logo Margin Bottom",
 					"default": 0,
