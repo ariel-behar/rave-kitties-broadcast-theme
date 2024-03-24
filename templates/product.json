@@ -53,8 +53,8 @@
             "icon_name": "icon-planet",
             "icon_size": 20,
             "icon_color": "#0097a7",
-            "title": "Exclusive Limited-Edition Prints",
-            "text_size": 3,
+            "title": "Exclusive Limited",
+            "text_size": 2,
             "width": "quarter",
             "padding_bottom": 16
           }
@@ -65,8 +65,8 @@
             "icon_name": "icon-ruler",
             "icon_size": 20,
             "icon_color": "#0097a7",
-            "title": "Tested for Perfect Fit on Multiple Bodies",
-            "text_size": 3,
+            "title": "Tested for Perfect",
+            "text_size": 2,
             "width": "quarter",
             "padding_bottom": 16
           }
@@ -77,8 +77,8 @@
             "icon_name": "icon-heart",
             "icon_size": 20,
             "icon_color": "#0097a7",
-            "title": "Second-Skin Feel with Top-Tier Fabrics",
-            "text_size": 3,
+            "title": "Second-Skin Feel",
+            "text_size": 2,
             "width": "quarter",
             "padding_bottom": 16
           }
@@ -89,8 +89,8 @@
             "icon_name": "icon-shield",
             "icon_size": 20,
             "icon_color": "#0097a7",
-            "title": "Safe & Secure Checkout",
-            "text_size": 3,
+            "title": "Safe & Secure",
+            "text_size": 2,
             "width": "quarter",
             "padding_bottom": 16
           }
