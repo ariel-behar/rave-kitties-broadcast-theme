@@ -34,7 +34,6 @@
     },
     "main": {
       "type": "collection",
-      "disabled": true,
       "settings": {
         "enable_sort": true,
         "enable_filters": true,
@@ -47,31 +46,11 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "sparqAppBlock": {
-      "type": "apps",
-      "blocks": {
-        "sparqAppBlock": {
-          "type": "shopify:\/\/apps\/product-filter-search-app\/blocks\/sparq-app-block\/8fd7d3d6-d46d-4322-92f0-3e36acf0ae32",
-          "settings": {
-            "template": "{{ shop.metafields.sparq.template-160256033116 }}",
-            "theme_css": "{{ shop.metafields.sparq.css-160256033116 }}",
-            "theme_js": "{{ shop.metafields.sparq.javascript-160256033116 }}"
-          }
-        }
-      },
-      "block_order": [
-        "sparqAppBlock"
-      ],
-      "settings": {
-        "include_margins": false
-      }
     }
   },
   "order": [
     "hero",
     "subcollections",
-    "main",
-    "sparqAppBlock"
+    "main"
   ]
 }
