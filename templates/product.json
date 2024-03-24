@@ -55,7 +55,7 @@
             "icon_color": "#0097a7",
             "title": "Exclusive Limited-Edition Prints",
             "text_size": 3,
-            "width": "full",
+            "width": "quarter",
             "padding_bottom": 16
           }
         },
@@ -67,7 +67,7 @@
             "icon_color": "#0097a7",
             "title": "Tested for Perfect Fit on Multiple Bodies",
             "text_size": 3,
-            "width": "full",
+            "width": "quarter",
             "padding_bottom": 16
           }
         },
@@ -79,7 +79,7 @@
             "icon_color": "#0097a7",
             "title": "Second-Skin Feel with Top-Tier Fabrics",
             "text_size": 3,
-            "width": "full",
+            "width": "quarter",
             "padding_bottom": 16
           }
         },
@@ -91,7 +91,7 @@
             "icon_color": "#0097a7",
             "title": "Safe & Secure Checkout",
             "text_size": 3,
-            "width": "full",
+            "width": "quarter",
             "padding_bottom": 16
           }
         },
