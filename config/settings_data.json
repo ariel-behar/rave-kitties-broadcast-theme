@@ -126,7 +126,7 @@
       },
       "5059203847231188605": {
         "type": "shopify:\/\/apps\/smart-product-filter-search\/blocks\/app-embed\/5cc1944c-3014-4a2a-af40-7d65abc0ef73",
-        "disabled": true,
+        "disabled": false,
         "settings": {
           "productGridSelector": "",
           "useCustomQuickviewTemplate": false,
@@ -142,7 +142,7 @@
       },
       "10249797228608187657": {
         "type": "shopify:\/\/apps\/ai-search-product-filter-sb\/blocks\/core\/45de52d0-b602-4c6e-aa3b-61524a251869",
-        "disabled": false,
+        "disabled": true,
         "settings": {
         }
       }
