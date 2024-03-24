@@ -46,7 +46,7 @@
         "cart_icon_family": "cart",
         "logo": "shopify:\/\/shop_images\/RK_PNG1000px.png",
         "logo_max_limit": 250,
-        "logo_max_limit_mobile": 120,
+        "logo_max_limit_mobile": 200,
         "main_menu_linklist": "broadcast-theme-main-menu",
         "mobile_menu_linklist": "broadcast-theme-main-menu",
         "enable_search": true,
