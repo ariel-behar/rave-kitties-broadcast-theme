@@ -1,0 +1,19 @@
+{
+  "sections": {
+    "main": {
+      "type": "search-no-usf",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "sparqAppBlock": {
+      "type": "apps",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sparqAppBlock"
+  ]
+}
