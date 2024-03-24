@@ -24088,6 +24088,34 @@ body.has-header-sticky .timeline {
 	order: 3
 }
 
+/*----- FOOTER -----*/
+.footer__quicklinks li {
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+.footer__block__title {
+  font-size: 20px;
+}
+.footer__blocks {
+  justify-content: center;
+}
+.footer__block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Fixing the Footer columns layout on small and medium screens */
+@media only screen and (min-width: 507px) and (max-width: 989px) {
+  .footer__blocks {
+    flex-flow: row wrap;
+  }
+  .footer__block {
+    flex-basis: 33%;
+  }
+}
+
+
 /*----- GENERAL -----*/
 /* Changing the colors of the scroll to top button */
 .btn.btn--scroll-top.btn--solid.is-visible {
