@@ -21,6 +21,7 @@
       "block_order": [
         "text_cw94Fa"
       ],
+      "disabled": true,
       "settings": {
         "show_border": false,
         "layout": "slider",
