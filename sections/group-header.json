@@ -39,7 +39,7 @@
       "settings": {
         "header_sticky": true,
         "header_style": "logo_beside",
-        "show_separator_line": true,
+        "show_separator_line": false,
         "separator_opacity": 50,
         "show_icons": true,
         "icon_as_circle": false,
