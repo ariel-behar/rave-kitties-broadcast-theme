@@ -37,10 +37,7 @@
         "linklist_GTxHhx"
       ],
       "custom_css": [
-        ".footer__quicklinks li {margin-bottom: 5px; font-size: 16px;}",
-        ".footer__block__title {font-size: 20px;}",
-        ".footer__blocks {justify-content: center;}",
-        ".footer__block {display: flex; flex-direction: column; align-items: center;}"
+
       ],
       "settings": {
         "logo": "shopify:\/\/shop_images\/rave-kitties-transparent.png",
