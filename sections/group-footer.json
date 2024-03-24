@@ -46,7 +46,7 @@
         "overlay_opacity": 75,
         "overlay_color": "#ffffff",
         "border_color": "#0097a7",
-        "padding_top": 30,
+        "padding_top": 50,
         "padding_bottom": 30
       }
     },
