@@ -24157,6 +24157,10 @@ body.has-header-sticky .timeline {
 
 
 /*----- PRODUCT PAGE -----*/
+.index-product .product__thumbs__holder {
+  width: 100%;
+}
+
 /* Adjusting margins and paddings for the product form */
 .index-product .product__wrapper {
 	margin: 0;
