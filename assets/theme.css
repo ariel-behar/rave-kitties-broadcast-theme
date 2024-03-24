@@ -24089,6 +24089,13 @@ body.has-header-sticky .timeline {
 }
 
 /*----- GENERAL -----*/
+/* Changing the colors of the scroll to top button */
+.btn.btn--scroll-top.btn--solid.is-visible {
+  background-color: #0097A7;
+  border: #0097A7;
+}
+
+
 /* Making the slider images for the Related and Recently viewed products smaller */
 .grid--slider .grid-item.product-item {
 	max-width: 400px;
