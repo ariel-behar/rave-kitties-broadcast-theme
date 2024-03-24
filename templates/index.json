@@ -134,7 +134,8 @@
       "custom_css": [
         ".wrapper--full-padded {padding-left: 0; padding-right: 0;}",
         ".wrapper--full-padded .grid-item {padding: 0;}",
-        ".wrapper--full-padded .grid-item .column__image {margin-bottom: 0;}"
+        ".wrapper--full-padded .grid-item .column__image {margin-bottom: 0;}",
+        ".wrapper--full-padded .multicolumn {margin: 0;}"
       ],
       "settings": {
         "title": "",
