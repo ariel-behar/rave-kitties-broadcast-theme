@@ -8,7 +8,6 @@
         "social_nrdrmV": {
           "type": "social",
           "settings": {
-            "logo_social": "shopify:\/\/shop_images\/RK_PNG1000px.png",
             "logo_social_width": 200,
             "title": "SOCIAL",
             "text": "",
@@ -42,6 +41,7 @@
 
       ],
       "settings": {
+        "logo": "shopify:\/\/shop_images\/RK_PNG1000px.png",
         "logo_image_width": 150,
         "overlay_opacity": 75,
         "overlay_color": "#ffffff",
