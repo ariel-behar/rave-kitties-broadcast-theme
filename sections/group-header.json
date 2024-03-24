@@ -57,7 +57,7 @@
         "show_country_flag": false,
         "highlight_item": "Sale",
         "highlight_item_color": "#c4af00",
-        "transparent_home": true,
+        "transparent_home": false,
         "transparent_product_page": false,
         "transparent_collection": false,
         "transparent_article": false,
