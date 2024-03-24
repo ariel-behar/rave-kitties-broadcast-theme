@@ -24157,6 +24157,7 @@ body.has-header-sticky .timeline {
 
 
 /*----- PRODUCT PAGE -----*/
+/* Fixing the bug with the overstreched thumbnails on mobile */
 .index-product .product__thumbs__holder {
   width: 100%;
 }
