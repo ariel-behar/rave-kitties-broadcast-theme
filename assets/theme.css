@@ -24153,25 +24153,6 @@ body.has-header-sticky .timeline {
 }
 
 /*----- COLLECTION PAGE -----*/
-/* Removing vertical padding of the collection grid */
-.collection__products .grid-outer {
-  padding: 5px var(--outer) 0 var(--outer);
-}
-
-/* Changing the color of the "sort by" filter buttons  */
-.gf-filter-selection .sort-by {
-  background-color: white;
-}
-/* Adding a bottom border */
-.gf-actions {
-  border-bottom: 1px solid lightgray;
-}
-
-/* Removing margin from filter buttons */
-.gf-actions .gf-filter-trigger, .gf-actions .gf-filter-selection {
-  margin-bottom: 0;
-}
-
 /* Making the padding of the filter buttons on the collection page smaller */
 .popout--group .popout__toggle, .popout--sort .popout__toggle {
   padding: 10px 18px;
