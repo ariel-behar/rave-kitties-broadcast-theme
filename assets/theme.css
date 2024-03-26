@@ -24119,6 +24119,7 @@ footer .supporting-menu {
 }
 .footer__block__title {
   font-size: 20px;
+  font-weight: bold;
 }
 .footer__blocks {
   justify-content: center;
