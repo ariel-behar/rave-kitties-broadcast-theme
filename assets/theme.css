@@ -24163,10 +24163,10 @@ footer .supporting-menu {
   --gap: 12px;
 }
 
-#gf-products > div {
+/* #gf-products > div {
   padding-left: 5px;
   padding-right: 5px;
-}
+} */
 
 /* Making the slider images for the Related and Recently viewed products smaller */
 .grid--slider .grid-item.product-item {
