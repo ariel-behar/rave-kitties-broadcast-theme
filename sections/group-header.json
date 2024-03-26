@@ -41,7 +41,7 @@
         "header_sticky": true,
         "header_style": "logo_beside",
         "show_separator_line": true,
-        "separator_opacity": 5,
+        "separator_opacity": 10,
         "show_icons": true,
         "icon_as_circle": false,
         "cart_icon_family": "cart",
