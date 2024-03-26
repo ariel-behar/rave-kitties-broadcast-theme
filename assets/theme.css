@@ -24198,6 +24198,18 @@ footer .supporting-menu {
   margin-left: auto;
 }
 
+/* Removing the border from the "Sort By" button */
+@media only screen and (max-width: 767px) {
+  #gf-controls-container .gf-filter-selection .sort-by {
+    border: none;
+  }
+}
+
+/* Adding a "Sort By:" text before sort by button */
+#gf-controls-container .gf-filter-selection .sort-by .sort-by-toggle span::before {
+  content: "Sort By: ";
+}
+
 /* Adjusting the font size of the "sort by" button */
 .sort-by-toggle span{
   font-size: 12px;
