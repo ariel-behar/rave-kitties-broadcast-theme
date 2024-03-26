@@ -24183,6 +24183,10 @@ footer .supporting-menu {
   margin-bottom: 0;
 }
 
+.spf-product-card .spf-product__info .spf-product-card__price {
+  font-weight: bold;
+}
+
 /* Removing vertical padding of the collection grid */
 .collection__products .grid-outer {
   padding: 5px var(--outer) 0 var(--outer);
