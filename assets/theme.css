@@ -24182,14 +24182,33 @@ footer .supporting-menu {
 .gf-filter-selection .sort-by {
   background-color: white;
 }
-/* Adding a bottom border */
-.gf-actions {
-  border-bottom: 1px solid lightgray;
+
+/* Adjusting the font size of the "sort by" button */
+.sort-by-toggle span{
+  font-size: 12px;
 }
 
+
 /* Removing margin from filter buttons */
+#gf-controls-container .gf-actions {
+  margin-bottom: 0;
+}
+
 .gf-actions .gf-filter-trigger, .gf-actions .gf-filter-selection {
   margin-bottom: 0;
+}
+
+.gf-actions span.gf-summary {
+  margin-bottom: 0;
+}
+
+#gf-controls-container .globo-selected-items-wrapper .globo-selected-items {
+  margin-bottom: 0;
+}
+
+/* Adding some letter spacing to the filter tree */ 
+#gf-tree .gf-label {
+  letter-spacing: 0.6px;
 }
 
 /* Making the padding of the filter buttons on the collection page smaller */
