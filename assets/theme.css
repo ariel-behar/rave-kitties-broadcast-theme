@@ -24214,8 +24214,6 @@ footer .supporting-menu {
   content: "Sort By: ";
 }
 
-
-
 /* Adjusting the font size of the "sort by" button */
 .sort-by-toggle span{
   font-size: 12px;
@@ -24273,8 +24271,22 @@ footer .supporting-menu {
   padding: 10px 18px;
 }
 
-
 /*----- PRODUCT PAGE -----*/
+.index-product .product__title, 
+.product__selectors .radio__buttons .radio__button label,
+.product__submit__item button[type="submit"],
+.multicolumn .column__heading,
+.tabs-wrapper .tab__title
+ {
+  font-weight: bold;
+}
+
+.product-accordion .accordion__title {
+  font-weight: bold;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
 /* Fixing the bug with the overstreched thumbnails on mobile */
 .index-product .product__thumbs__holder {
   width: 100%;
