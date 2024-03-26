@@ -24210,6 +24210,8 @@ footer .supporting-menu {
   content: "Sort By: ";
 }
 
+
+
 /* Adjusting the font size of the "sort by" button */
 .sort-by-toggle span{
   font-size: 12px;
@@ -24243,6 +24245,18 @@ footer .supporting-menu {
 
 #gf-controls-container .globo-selected-items-wrapper .globo-selected-items {
   margin-bottom: 0;
+}
+
+/* Fixing the wrapping of the filters on small screens */
+@media only screen and (max-width: 767px) {
+  .gf-offcanvas #gf-controls-container .gf-actions .globo-selected-items-wrapper {
+    display: none;
+  }
+  #gf-controls-container .gf-actions {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+  }
 }
 
 /* Adding some letter spacing to the filter tree */ 
