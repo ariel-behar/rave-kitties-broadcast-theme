@@ -9,6 +9,7 @@
           "type": "social",
           "settings": {
             "logo_social_width": 200,
+            "logo_social_margin_bottom": 0,
             "title": "SOCIAL",
             "text": "",
             "column_width": 20,
@@ -59,8 +60,8 @@
         "show_country_selector": false,
         "show_country_name": false,
         "show_country_flag": false,
-        "padding_top": 30,
-        "padding_bottom": 30
+        "padding_top": 0,
+        "padding_bottom": 10
       }
     }
   },
