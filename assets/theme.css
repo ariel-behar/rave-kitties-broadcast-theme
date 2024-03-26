@@ -24183,11 +24183,28 @@ footer .supporting-menu {
   background-color: white;
 }
 
+/* Moving the sort options all the way to the right */
+.gf-filter-selection {
+  margin-left: auto;
+}
+
 /* Adjusting the font size of the "sort by" button */
 .sort-by-toggle span{
   font-size: 12px;
 }
 
+/* Hidding the sort by number of items option */
+.gf-filter-selection .sort-by.limit-by {
+  display: none;
+}
+
+/* Making the filters' bar sticky */
+#gf-controls-container {
+  position: sticky;
+  top: var(--header-height);
+  z-index: 100;
+  background-color: var(--bg);
+}
 
 /* Removing margin from filter buttons */
 #gf-controls-container .gf-actions {
@@ -24199,7 +24216,7 @@ footer .supporting-menu {
 }
 
 .gf-actions span.gf-summary {
-  margin-bottom: 0;
+  display: none;
 }
 
 #gf-controls-container .globo-selected-items-wrapper .globo-selected-items {
