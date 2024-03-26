@@ -24174,6 +24174,15 @@ footer .supporting-menu {
 }
 
 /*----- COLLECTION PAGE -----*/
+/* Removing padding and margins in the collection page grid */
+#gf-products .spf-product-card.spf-product-card__center .spf-product__info {
+  padding-top: 0;
+}
+
+#gf-products .spf-product-card {
+  margin-bottom: 0;
+}
+
 /* Removing vertical padding of the collection grid */
 .collection__products .grid-outer {
   padding: 5px var(--outer) 0 var(--outer);
