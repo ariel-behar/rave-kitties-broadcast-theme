@@ -24168,8 +24168,6 @@ footer .supporting-menu {
   padding-right: 5px;
 }
 
-
-
 /* Making the slider images for the Related and Recently viewed products smaller */
 .grid--slider .grid-item.product-item {
 	max-width: 400px;
@@ -24200,6 +24198,11 @@ footer .supporting-menu {
 /* Removing padding and margins in the collection page grid */
 #gf-products .spf-product-card.spf-product-card__center .spf-product__info {
   padding-top: 0;
+}
+
+/* Adding bottom margin to the tiles on the collection page */
+.spf-product-card .spf-product__info .spf-product-card__title {
+  margin-bottom: 4px;
 }
 
 #gf-products .spf-product-card {
