@@ -3,7 +3,7 @@
     "hero": {
       "type": "section-hero",
       "settings": {
-        "height": "screen-height-three-quarters",
+        "height": "image-height",
         "width": "wrapper--full",
         "image_1": "shopify:\/\/shop_images\/banner1_copy.jpg",
         "link": "shopify:\/\/collections\/female-costumes",
