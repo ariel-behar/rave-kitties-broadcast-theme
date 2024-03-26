@@ -24147,6 +24147,18 @@ footer .supporting-menu {
   border: #0097A7;
 } */
 
+.product-item__title {
+  text-transform: uppercase; 
+}
+
+.product-item__price .price {
+  font-weight: bold;
+}
+
+.price .new-price {
+  color: #141414;
+}
+
 /* Making the slider images for the Related and Recently viewed products smaller */
 .grid--slider .grid-item.product-item {
 	max-width: 400px;
