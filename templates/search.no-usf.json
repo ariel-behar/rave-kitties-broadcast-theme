@@ -3,9 +3,9 @@
     "main": {
       "type": "search-no-usf",
       "settings": {
-        "enable_sort": true,
-        "enable_filters": true,
-        "filter_layout": "inline-open",
+        "enable_sort": false,
+        "enable_filters": false,
+        "filter_layout": "slide-out",
         "collection_linklist": "",
         "padding_top": 50,
         "padding_bottom": 50
