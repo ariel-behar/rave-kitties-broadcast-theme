@@ -2,18 +2,17 @@
   "sections": {
     "main": {
       "type": "search-no-usf",
-      "disabled": true,
       "settings": {
-      }
-    },
-    "sparqAppBlock": {
-      "type": "apps",
-      "settings": {
+        "enable_sort": true,
+        "enable_filters": true,
+        "filter_layout": "inline-open",
+        "collection_linklist": "",
+        "padding_top": 50,
+        "padding_bottom": 50
       }
     }
   },
   "order": [
-    "main",
-    "sparqAppBlock"
+    "main"
   ]
 }
