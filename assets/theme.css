@@ -24156,7 +24156,7 @@ footer .supporting-menu {
 } */
 
 .product-item__title {
-  text-transform: uppercase; 
+  font-weight: 500;
 }
 
 .product-item__price .price {
@@ -24168,7 +24168,7 @@ footer .supporting-menu {
 }
 
 .grid {
-  --gap: 12px;
+  --gap: 10px;
 }
 
 /* #gf-products > div {
@@ -24221,8 +24221,12 @@ footer .supporting-menu {
 }
 
 /* Making the images cover the width of the card */
-#gf-products img.spf-product-card__image {
+#gf-products .spf-product__info img.spf-product-card__image {
   object-fit: cover;
+}
+
+#gf-products .h4.spf-product-card__title a {
+  font-weight: 500;
 }
 
 /* Adding bottom margin to the tiles on the collection page */
