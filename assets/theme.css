@@ -24097,6 +24097,9 @@ header.theme__header, .header__dropdown {
 /* Adding a box shadow and background image to the footer */
 footer {
   box-shadow: 0px -3px 5px -2px rgba(0, 0, 0, 0.3);
+  background-image: url("https://cdn.shopify.com/s/files/1/0773/0885/4620/files/hologram-opacity-0.5_150x.jpg?v=1711806335");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 /* Making the footer supporting menu transparent  */
