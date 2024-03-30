@@ -24140,6 +24140,14 @@ footer .supporting-menu {
   }
 }
 
+/* Centering the copyright menu on small screens */
+@media only screen and (max-width: 749px) {
+  .supporting-menu__copyright {
+    display: block;
+    text-align: center;
+  }
+}
+
 /*----- GENERAL -----*/
 /* Changing the colors of the scroll to top button */
 /* .btn.btn--scroll-top.btn--solid.is-visible {
