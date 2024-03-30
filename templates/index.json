@@ -212,7 +212,7 @@
         "borders": false,
         "gutters": false,
         "reverse_blocks": false,
-        "padding_top": 6,
+        "padding_top": 7,
         "padding_bottom": 0
       }
     },
