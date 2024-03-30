@@ -24388,8 +24388,45 @@ footer .supporting-menu {
 	color: white;
   }
 
+
+
+ .product__icon__row .icon-planet {
+    animation: swirl 3s infinite ease-in-out;
+ }
+
+ @keyframes swirl {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(10deg);
+  }
+  80% {
+    transform: rotate(-10deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.product__icon__row .icon-ruler {
+  animation: rotate 3s infinite ease-in-out;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(-30deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
 .product__icon__row .icon-heart {
-  animation: pulse 4s infinite;
+  animation: pulse 3s infinite ease-in-out;
 }
 
 @keyframes pulse {
@@ -24397,12 +24434,27 @@ footer .supporting-menu {
     transform: scale(1);
   }
   50% {
-    transform: scale(1.1);
+    transform: scale(1.2);
   }
   100% {
     transform: scale(1);
   }
-  
+}
+
+.product__icon__row .icon-shield {
+  animation: changeOpacity 2s infinite ease-in-out;
+}
+
+@keyframes changeOpacity {
+  0% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.5;
+  }
 }
   
 /* Adjusting the grid columns on large sizes for the product page */
