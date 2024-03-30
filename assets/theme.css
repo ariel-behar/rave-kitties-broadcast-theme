@@ -24208,6 +24208,23 @@ footer .supporting-menu {
   padding-top: 0;
 }
 
+/* Removing negative margins from products grid */
+#gf-grid #gf-products {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* Removing excess padding from each product card*/
+#gf-products > div {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+/* Making the images cover the width of the card */
+#gf-products img.spf-product-card__image {
+  object-fit: cover;
+}
+
 /* Adding bottom margin to the tiles on the collection page */
 .spf-product-card .spf-product__info .spf-product-card__title {
   margin-bottom: 4px;
