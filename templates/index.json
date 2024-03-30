@@ -210,7 +210,7 @@
         "mobile_height": "screen-height-one-third--mobile",
         "width": "wrapper--full",
         "borders": false,
-        "gutters": true,
+        "gutters": false,
         "reverse_blocks": false,
         "padding_top": 7,
         "padding_bottom": 0
