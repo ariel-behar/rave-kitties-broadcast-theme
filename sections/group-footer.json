@@ -45,7 +45,7 @@
         "logo": "shopify:\/\/shop_images\/RK_PNG1000px.png",
         "logo_image_width": 300,
         "image": "shopify:\/\/shop_images\/hologram.jpg",
-        "overlay_opacity": 55,
+        "overlay_opacity": 40,
         "overlay_color": "#ffffff",
         "border_color": "#0097a7",
         "padding_top": 40,
