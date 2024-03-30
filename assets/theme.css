@@ -24238,8 +24238,15 @@ footer .supporting-menu {
   object-fit: cover;
 }
 
+#gf-products .h4.spf-product-card__title {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
 #gf-products .h4.spf-product-card__title a {
   font-weight: 500;
+
 }
 
 /* Adding bottom margin to the tiles on the collection page */
