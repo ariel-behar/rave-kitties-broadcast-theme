@@ -52,7 +52,7 @@
           "settings": {
             "icon_name": "icon-planet",
             "icon_size": 20,
-            "icon_color": "#0097a7",
+            "icon_color": "#000000",
             "title": "Exclusive Limited",
             "text_size": 2,
             "width": "quarter",
@@ -64,7 +64,7 @@
           "settings": {
             "icon_name": "icon-ruler",
             "icon_size": 20,
-            "icon_color": "#0097a7",
+            "icon_color": "#000000",
             "title": "Tested for Perfect",
             "text_size": 2,
             "width": "quarter",
@@ -76,7 +76,7 @@
           "settings": {
             "icon_name": "icon-heart",
             "icon_size": 20,
-            "icon_color": "#0097a7",
+            "icon_color": "#000000",
             "title": "Second-Skin Feel",
             "text_size": 2,
             "width": "quarter",
@@ -88,7 +88,7 @@
           "settings": {
             "icon_name": "icon-shield",
             "icon_size": 20,
-            "icon_color": "#0097a7",
+            "icon_color": "#000000",
             "title": "Safe & Secure",
             "text_size": 2,
             "width": "quarter",
