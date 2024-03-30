@@ -233,7 +233,7 @@
         "show_arrow": false,
         "featured_collection": "mens-halloween-costumes",
         "layout_desktop": "slider",
-        "grid": 4,
+        "grid": 2,
         "rows": 1,
         "width": "wrapper--full-padded",
         "layout_mobile": "slider",
