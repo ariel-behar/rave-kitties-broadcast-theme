@@ -24215,6 +24215,11 @@ footer .supporting-menu {
   padding-top: 0;
 }
 
+/* Adjusting the setting that was preventing the product images from being displayed with full height  */
+#gf-products .spf-product-card .spf-product-card__image-wrapper {
+  padding-top: 150%!important;
+}
+
 /* Removing negative margins from products grid */
 #gf-grid #gf-products {
   margin-left: 0;
@@ -24222,7 +24227,7 @@ footer .supporting-menu {
 }
 
 /* Removing excess padding from each product card*/
-#gf-products > div {
+#gf-grid #gf-products > div {
   padding-left: 5px;
   padding-right: 5px;
 }
@@ -24264,10 +24269,15 @@ footer .supporting-menu {
   margin-left: auto;
 }
 
-/* Removing the border from the "Sort By" button */
+
 @media only screen and (max-width: 767px) {
+  /* Removing the border from the "Sort By" button */
   #gf-controls-container .gf-filter-selection .sort-by {
     border: none;
+  }
+  /* Removing the horizontal padding of the grid on small screens  */
+  .collection__products .grid-outer {
+    padding: 5px 6px 0 6px;
   }
 }
 
