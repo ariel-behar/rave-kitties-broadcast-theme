@@ -43,7 +43,7 @@
       ],
       "settings": {
         "logo": "shopify:\/\/shop_images\/RK_PNG1000px.png",
-        "logo_image_width": 400,
+        "logo_image_width": 300,
         "overlay_opacity": 75,
         "overlay_color": "#ffffff",
         "border_color": "#0097a7",
