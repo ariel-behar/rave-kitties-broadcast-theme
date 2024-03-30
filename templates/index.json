@@ -30,7 +30,7 @@
         "link_text": "",
         "link_url": "",
         "button_type": "btn--primary",
-        "button_size": "",
+        "button_size": "btn--large",
         "button_style": "btn--text",
         "show_arrow": true,
         "featured_collection": "female-costumes",
