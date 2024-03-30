@@ -24188,6 +24188,13 @@ footer .supporting-menu {
 }
 
 /*----- HOME PAGE -----*/
+/* Adding padding and gap to the section with the 2 large banners */
+.template-index .brick__section.wrapper--full {
+  padding-left: 5px;
+  padding-right: 5px;
+  gap: 6px;
+}
+
 /* Adding additional styles to the Follow us on Instagram title on mobile and desktop */
 #follow-us-on-instagram-div {
 	padding: 30px 0;
