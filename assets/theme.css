@@ -24442,18 +24442,21 @@ footer .supporting-menu {
 }
 
 .product__icon__row .icon-shield {
-  animation: changeOpacity 2s infinite ease-in-out;
+  animation: rotateAndScale 3s infinite ease-in-out;
 }
 
-@keyframes changeOpacity {
+@keyframes rotateAndScale {
   0% {
-    opacity: 0.5;
+    transform:  rotate(0deg) scale(1);
   }
-  50% {
-    opacity: 1;
+  20% {
+    transform: rotate(8deg) scale(0.9);
+  }
+  80% {
+    transform: rotate(-8deg) scale(1.1);
   }
   100% {
-    opacity: 0.5;
+    transform: rotate(0deg) scale(1);
   }
 }
   
