@@ -24386,9 +24386,25 @@ footer .supporting-menu {
 	border-color: var(--primary);
 	background-color: var(--primary);
 	color: white;
+}
+
+/* Adding an animation to the Size Chart popup */
+.template-product product-modal.product__block .radio__legend__link.text-link {
+  font-size: 12px;
+  animation: pulseSmall 3s infinite ease-in-out;
+}
+
+@keyframes pulseSmall {
+  0% {
+    transform: scale(1);
   }
-
-
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
 
  .product__icon__row .icon-planet {
     animation: swirl 3s infinite ease-in-out;
