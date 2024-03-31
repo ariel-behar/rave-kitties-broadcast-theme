@@ -24388,6 +24388,11 @@ footer .supporting-menu {
 	color: white;
 }
 
+/* Removing the padding from the first line of variant boxes */
+.index-product .radio__fieldset {
+  padding-bottom: 0;
+}
+
 /* Adding an animation to the Size Chart popup */
 .template-product product-modal.product__block .radio__legend__link.text-link {
   font-size: 12px;
