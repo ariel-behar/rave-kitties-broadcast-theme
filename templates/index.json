@@ -208,7 +208,7 @@
       ],
       "settings": {
         "height": "screen-height-two-thirds",
-        "mobile_height": "screen-height-one-third--mobile",
+        "mobile_height": "screen-height-one-half--mobile",
         "width": "wrapper--full",
         "borders": false,
         "gutters": false,
