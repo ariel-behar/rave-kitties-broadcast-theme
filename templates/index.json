@@ -131,6 +131,7 @@
         "image_tND6mj",
         "image_whyGjt"
       ],
+      "disabled": true,
       "custom_css": [
         ".wrapper--full-padded {padding-left: 0; padding-right: 0;}",
         ".wrapper--full-padded .grid-item {padding: 0;}",
@@ -159,7 +160,7 @@
         "image_b3zbhU": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Female_3.jpg",
+            "image": "shopify:\/\/shop_images\/Best_Woman_s.png",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "show_overlay_text": false,
@@ -171,7 +172,7 @@
             "bg_color": "",
             "color": "#ffffff",
             "link_text": "",
-            "link": "shopify:\/\/collections\/female-costumes",
+            "link": "shopify:\/\/collections\/new-in",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--solid",
@@ -181,7 +182,7 @@
         "image_mqREkw": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Male_1.jpg",
+            "image": "shopify:\/\/shop_images\/Best_Man_s.png",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "show_overlay_text": false,
