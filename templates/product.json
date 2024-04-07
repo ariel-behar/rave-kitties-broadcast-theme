@@ -53,8 +53,8 @@
             "icon_name": "icon-planet",
             "icon_size": 20,
             "icon_color": "#000000",
-            "title": "Exclusive Limited",
-            "text_size": 2,
+            "title": "Rare & Limited Prints",
+            "text_size": 1,
             "width": "quarter",
             "padding_bottom": 16
           }
@@ -65,8 +65,8 @@
             "icon_name": "icon-ruler",
             "icon_size": 20,
             "icon_color": "#000000",
-            "title": "Tested for Perfect",
-            "text_size": 2,
+            "title": "Designs for a Perfect Fit",
+            "text_size": 1,
             "width": "quarter",
             "padding_bottom": 16
           }
@@ -77,8 +77,8 @@
             "icon_name": "icon-heart",
             "icon_size": 20,
             "icon_color": "#000000",
-            "title": "Second-Skin Feel",
-            "text_size": 2,
+            "title": "Ultra Comfy Fabrics",
+            "text_size": 1,
             "width": "quarter",
             "padding_bottom": 16
           }
@@ -89,8 +89,8 @@
             "icon_name": "icon-shield",
             "icon_size": 20,
             "icon_color": "#000000",
-            "title": "Safe & Secure",
-            "text_size": 2,
+            "title": "Secure Checkout",
+            "text_size": 1,
             "width": "quarter",
             "padding_bottom": 16
           }
@@ -149,9 +149,9 @@
             "icon_size": 20,
             "icon_alignment": "icon--left",
             "icon_color": "#545454",
-            "title": "30-DAY PARTY GUARANTEE",
+            "title": "30-DAY RETURN POLICY",
             "heading_size": 4,
-            "text": "<p>Just return the item in the first 30-days after your purchase to get a refund or store credit.<\/p>",
+            "text": "<p>Don't Click with Your Purchase? No Problem! Return within a month for a Full Refund or Store Credit!<\/p>",
             "text_size": 3
           }
         },
@@ -163,9 +163,9 @@
             "icon_size": 20,
             "icon_alignment": "icon--left",
             "icon_color": "#545454",
-            "title": "SHIPPING",
+            "title": "FAST SHIPPING",
             "heading_size": 4,
-            "text": "<p>It takes us 1-5 business days to ship the orders. Once in a blue moon, there might be minor delays.<\/p>",
+            "text": "<p>Put on your shipping goggles! Your orders usually dive into the delivery pool within 1-5 business days!<\/p>",
             "text_size": 3
           }
         },
@@ -177,9 +177,9 @@
             "icon_size": 20,
             "icon_alignment": "icon--left",
             "icon_color": "#545454",
-            "title": "GET IN TOUCH",
+            "title": "WANNA CHAT?",
             "heading_size": 4,
-            "text": "<p>Have questions? <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">Get in touch <\/a>with us at any time.<\/p>",
+            "text": "<p>Got burning questions? We're all ears You can  <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">ask us anything<\/a>, any time of day or night!<\/p>",
             "text_size": 3
           }
         }
