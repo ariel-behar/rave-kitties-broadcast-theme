@@ -207,7 +207,7 @@
         "image_mqREkw"
       ],
       "settings": {
-        "height": "screen-height-two-thirds",
+        "height": "image-height",
         "mobile_height": "screen-height-one-half--mobile",
         "width": "wrapper--full",
         "borders": false,

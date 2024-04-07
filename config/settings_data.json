@@ -91,33 +91,6 @@
 
     ],
     "blocks": {
-      "13396495102645618393": {
-        "type": "shopify:\/\/apps\/infinite-scroll\/blocks\/app-embed\/a3bc84f2-5d30-48ba-bdd2-bc9edbc709f6",
-        "disabled": false,
-        "settings": {
-          "autoLink": true,
-          "offset": -1,
-          "font_size": 1,
-          "borderSize": 1,
-          "borderRadius": 5,
-          "imageMaxWidth": 100,
-          "circleColor": "#016E52",
-          "backgroundButtonLoadmore": "#EFEFEF",
-          "borderColor": "#016E52",
-          "textLoadmoreColor": "",
-          "textLoadingColor": "#121212",
-          "textEndColor": "",
-          "backgroundTextEnd": "",
-          "prevMoreButtonText": "",
-          "loadingText": "Loading ...",
-          "loadMoreButtonText": "Load More",
-          "doneText": "You've reached the end of the item.",
-          "container": "",
-          "item": "",
-          "pagination": "",
-          "custom_css": ""
-        }
-      },
       "11532412952436166569": {
         "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-inject\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
         "disabled": false,
@@ -138,6 +111,33 @@
           "customSearchTemplateLoader": "{%- capture searchTemplate -%}{% render 'globo.filter.search' %}{%- endcapture -%}{%- unless searchTemplate contains 'Liquid error' -%}<script id=\"gspfSearchResult\" type=\"template\/html\">{{- searchTemplate | replace: \"script>\", \"scripttag>\" -}}<\/script>{%- endunless -%}",
           "customPaginationTemplateLoader": "{%- capture paginationTemplate -%}{% render 'globo.filter.pagination' %}{%- endcapture -%}{%- unless paginationTemplate contains 'Liquid error' -%}<script id=\"gspfPagination\" type=\"template\/html\">{{- paginationTemplate | replace: \"script>\", \"scripttag>\" -}}<\/script>{%- endunless -%}",
           "customYMMTemplateLoader": "{%- capture YMMTemplate -%}{% render 'globo.filter.form' %}{%- endcapture -%}{%- unless YMMTemplate contains 'Liquid error' -%}<script id=\"gspfForm\" type=\"template\/html\">{{- YMMTemplate | replace: \"script>\", \"scripttag>\" -}}<\/script>{%- endunless -%}"
+        }
+      },
+      "13396495102645618393": {
+        "type": "shopify:\/\/apps\/infinite-scroll\/blocks\/app-embed\/a3bc84f2-5d30-48ba-bdd2-bc9edbc709f6",
+        "disabled": false,
+        "settings": {
+          "autoLink": true,
+          "offset": -1,
+          "font_size": 1,
+          "borderSize": 1,
+          "borderRadius": 5,
+          "imageMaxWidth": 100,
+          "circleColor": "#016e52",
+          "backgroundButtonLoadmore": "#efefef",
+          "borderColor": "#016e52",
+          "textLoadmoreColor": "",
+          "textLoadingColor": "#121212",
+          "textEndColor": "",
+          "backgroundTextEnd": "",
+          "prevMoreButtonText": "",
+          "loadingText": "Loading ...",
+          "loadMoreButtonText": "Load More",
+          "doneText": "You've reached the end of the item.",
+          "container": "",
+          "item": "",
+          "pagination": "",
+          "custom_css": ""
         }
       }
     }
