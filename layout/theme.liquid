@@ -87,6 +87,7 @@
   {%- if request.design_mode -%}
     {{ 'design-mode.css' | asset_url | stylesheet_tag }}
   {%- endif -%}
+  {% include 'analyzify-gtm-body' %}
 
   <script>
     if (window.navigator.userAgent.indexOf('MSIE ') > 0 || window.navigator.userAgent.indexOf('Trident/') > 0) {
