@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -101,7 +110,7 @@
             "show_read_more": false,
             "style": "accordions",
             "title_1": "Shipping & Returns",
-            "raw_content_1": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.<\/p>",
+            "raw_content_1": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.</p>",
             "title_2": "",
             "raw_content_2": "",
             "title_3": "",
@@ -151,7 +160,7 @@
             "icon_color": "#545454",
             "title": "30-DAY RETURN POLICY",
             "heading_size": 4,
-            "text": "<p>Don't Click with Your Purchase? No Problem! Return within a month for a Full Refund or Store Credit!<\/p>",
+            "text": "<p>Don't Click with Your Purchase? No Problem! Return within a month for a Full Refund or Store Credit!</p>",
             "text_size": 3
           }
         },
@@ -165,7 +174,7 @@
             "icon_color": "#545454",
             "title": "FAST SHIPPING",
             "heading_size": 4,
-            "text": "<p>Put on your shipping goggles! Your orders usually dive into the delivery pool within 1-5 business days!<\/p>",
+            "text": "<p>Put on your shipping goggles! Your orders usually dive into the delivery pool within 1-5 business days!</p>",
             "text_size": 3
           }
         },
@@ -179,7 +188,7 @@
             "icon_color": "#545454",
             "title": "WANNA CHAT?",
             "heading_size": 4,
-            "text": "<p>Got burning questions? We're all ears You can  <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">ask us anything<\/a>, any time of day or night!<\/p>",
+            "text": "<p>Got burning questions? We're all ears You can  <a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">ask us anything</a>, any time of day or night!</p>",
             "text_size": 3
           }
         }
@@ -236,11 +245,34 @@
         "padding_top": 30,
         "padding_bottom": 30
       }
+    },
+    "1727242025dc416457": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_9fdiwx": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_9fdiwx"
+      ],
+      "settings": {
+        "include_margins": false
+      }
     }
   },
   "order": [
     "main",
     "section_multicolumn_CgEcc7",
-    "related"
+    "related",
+    "1727242025dc416457"
   ]
 }
