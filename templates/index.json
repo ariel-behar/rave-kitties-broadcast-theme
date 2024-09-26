@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "hero": {
@@ -5,10 +14,10 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify:\/\/shop_images\/banner1_copy.jpg",
-        "link": "shopify:\/\/collections\/new-in",
+        "image_1": "shopify://shop_images/banner1_copy.jpg",
+        "link": "shopify://collections/new-in",
         "mobile_height": "screen-height-three-quarters--mobile",
-        "mobile_image": "shopify:\/\/shop_images\/mobile1_copy.jpg",
+        "mobile_image": "shopify://shop_images/mobile1_copy.jpg",
         "flex_align_desktop": "align--middle-center-desktop",
         "flex_align_mobile": "align--middle-center-mobile",
         "overlay_opacity": 0,
@@ -33,7 +42,7 @@
         "button_size": "",
         "button_style": "btn--text",
         "show_arrow": true,
-        "featured_collection": "new-in",
+        "featured_collection": "new-halloween",
         "layout_desktop": "slider",
         "grid": 2,
         "rows": 1,
@@ -52,7 +61,7 @@
           "type": "image",
           "settings": {
             "column_width": 25,
-            "image": "shopify:\/\/shop_images\/example-banner-525x814_candywoman.png",
+            "image": "shopify://shop_images/example-banner-525x814_candywoman.png",
             "image_aspect_ratio": 1.5,
             "mobile_image_aspect_ratio": 1.5,
             "image_shape": "normal",
@@ -71,7 +80,7 @@
           "type": "image",
           "settings": {
             "column_width": 25,
-            "image": "shopify:\/\/shop_images\/example-banner-525x814_candywoman.png",
+            "image": "shopify://shop_images/example-banner-525x814_candywoman.png",
             "image_aspect_ratio": 1.5,
             "mobile_image_aspect_ratio": 1.5,
             "image_shape": "normal",
@@ -90,7 +99,7 @@
           "type": "image",
           "settings": {
             "column_width": 25,
-            "image": "shopify:\/\/shop_images\/example-banner-525x814_candywoman.png",
+            "image": "shopify://shop_images/example-banner-525x814_candywoman.png",
             "image_aspect_ratio": 1.5,
             "mobile_image_aspect_ratio": 1.5,
             "image_shape": "normal",
@@ -109,7 +118,7 @@
           "type": "image",
           "settings": {
             "column_width": 25,
-            "image": "shopify:\/\/shop_images\/example-banner-525x814_candywoman.png",
+            "image": "shopify://shop_images/example-banner-525x814_candywoman.png",
             "image_aspect_ratio": 1.5,
             "mobile_image_aspect_ratio": 1.5,
             "image_shape": "normal",
@@ -160,7 +169,7 @@
         "image_b3zbhU": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Best_Woman_s.png",
+            "image": "shopify://shop_images/Best_Woman_s.png",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "show_overlay_text": false,
@@ -172,7 +181,7 @@
             "bg_color": "",
             "color": "#ffffff",
             "link_text": "",
-            "link": "shopify:\/\/collections\/new-in",
+            "link": "shopify://collections/new-in",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--solid",
@@ -182,7 +191,7 @@
         "image_mqREkw": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Best_Man_s.png",
+            "image": "shopify://shop_images/Best_Man_s.png",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "show_overlay_text": false,
@@ -194,7 +203,7 @@
             "bg_color": "",
             "color": "#ffffff",
             "link_text": "",
-            "link": "shopify:\/\/collections\/mens-halloween-costumes",
+            "link": "shopify://collections/mens-halloween-costumes",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--solid",
@@ -250,7 +259,7 @@
         "image": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Shine_in_Latex.jpg",
+            "image": "shopify://shop_images/Shine_in_Latex.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "show_overlay_text": false,
@@ -262,7 +271,7 @@
             "bg_color": "",
             "color": "#ffffff",
             "link_text": "",
-            "link": "shopify:\/\/collections\/shine-n-latex",
+            "link": "shopify://collections/shine-n-latex",
             "button_type": "btn--white",
             "button_size": "",
             "button_style": "btn--outline",
@@ -272,7 +281,7 @@
         "image_8UK7CX": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Male_1.jpg",
+            "image": "shopify://shop_images/Male_1.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "show_overlay_text": false,
@@ -284,7 +293,7 @@
             "bg_color": "",
             "color": "#ffffff",
             "link_text": "",
-            "link": "shopify:\/\/collections\/mens-halloween-costumes",
+            "link": "shopify://collections/mens-halloween-costumes",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--solid",
@@ -311,7 +320,7 @@
     "section_custom_code_KYTmUT": {
       "type": "section-custom-code",
       "settings": {
-        "code": "<div id=\"follow-us-on-instagram-div\" class=\"hero__content hero__content--compact text-center\">\n<p class=\"hero__subheading subheading-size-5 aos-animate\" data-aos=\"hero\" data-aos-anchor=\"#BrickSection--template--20883765625165__section_custom_content_mhrxr6\" data-aos-order=\"1\" style=\"font-weight: bold\">FOLLOW US on INSTAGRAM<\/p>\n\n<div class=\"hero__button aos-animate\" data-aos=\"hero\" data-aos-anchor=\"#BrickSection--template--20883765625165__section_custom_content_mhrxr6\" data-aos-order=\"2\">\n          <a href=\"https:\/\/www.instagram.com\/ravekitties.wear\/\" class=\"btn btn--text btn--text-no-underline  btn--primary\">\n            <span>@ravekitties.wear<\/span><svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-arrow-right\" viewBox=\"0 0 24 24\"><path d=\"M6 12h12.5m0 0-6-6m6 6-6 6\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path><\/svg><\/a>\n        <\/div>\n<\/div>",
+        "code": "<div id=\"follow-us-on-instagram-div\" class=\"hero__content hero__content--compact text-center\">\n<p class=\"hero__subheading subheading-size-5 aos-animate\" data-aos=\"hero\" data-aos-anchor=\"#BrickSection--template--20883765625165__section_custom_content_mhrxr6\" data-aos-order=\"1\" style=\"font-weight: bold\">FOLLOW US on INSTAGRAM</p>\n\n<div class=\"hero__button aos-animate\" data-aos=\"hero\" data-aos-anchor=\"#BrickSection--template--20883765625165__section_custom_content_mhrxr6\" data-aos-order=\"2\">\n          <a href=\"https://www.instagram.com/ravekitties.wear/\" class=\"btn btn--text btn--text-no-underline  btn--primary\">\n            <span>@ravekitties.wear</span><svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-arrow-right\" viewBox=\"0 0 24 24\"><path d=\"M6 12h12.5m0 0-6-6m6 6-6 6\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></a>\n        </div>\n</div>",
         "width": "wrapper",
         "bg_color": "",
         "color": "",
@@ -323,7 +332,7 @@
       "type": "apps",
       "blocks": {
         "instafeed_app_block_BDbKJX": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "title": "",
             "title_color": "",
@@ -331,6 +340,7 @@
             "alignment": "center",
             "margin_top": 0,
             "margin_bottom": 30,
+            "background_color": "",
             "html_area": ""
           }
         }
