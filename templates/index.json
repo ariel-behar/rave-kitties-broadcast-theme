@@ -14,10 +14,10 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/banner1_copy.jpg",
+        "image_1": "shopify://shop_images/halloweenRKDesktop_copy.jpg",
         "link": "shopify://collections/new-in",
         "mobile_height": "screen-height-three-quarters--mobile",
-        "mobile_image": "shopify://shop_images/mobile1_copy.jpg",
+        "mobile_image": "shopify://shop_images/halloweenRKMobile_copy.jpg",
         "flex_align_desktop": "align--middle-center-desktop",
         "flex_align_mobile": "align--middle-center-mobile",
         "overlay_opacity": 0,
