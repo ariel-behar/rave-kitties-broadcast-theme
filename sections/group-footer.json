@@ -1,0 +1,72 @@
+{
+  "type": "footer",
+  "name": "Footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "social_nrdrmV": {
+          "type": "social",
+          "settings": {
+            "logo_social_width": 200,
+            "logo_social_margin_bottom": 0,
+            "title": "SOCIAL",
+            "text": "",
+            "column_width": 20,
+            "enable_follow_on_shop": false
+          }
+        },
+        "footer-1": {
+          "type": "linklist",
+          "settings": {
+            "linklist": "broadcast-theme-info-menu",
+            "title": "INFO",
+            "column_width": 20
+          }
+        },
+        "linklist_GTxHhx": {
+          "type": "linklist",
+          "settings": {
+            "linklist": "about",
+            "title": "",
+            "column_width": 20
+          }
+        }
+      },
+      "block_order": [
+        "social_nrdrmV",
+        "footer-1",
+        "linklist_GTxHhx"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "logo": "shopify:\/\/shop_images\/RK_PNG1000px.png",
+        "logo_image_width": 300,
+        "overlay_opacity": 0,
+        "overlay_color": "#ffffff",
+        "border_color": "#0097a7",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "supporting-menu": {
+      "type": "section-supporting-menu",
+      "settings": {
+        "linklist": "",
+        "footer_payment_enable": false,
+        "show_locale_selector": false,
+        "show_country_selector": false,
+        "show_country_name": false,
+        "show_country_flag": false,
+        "padding_top": 10,
+        "padding_bottom": 10
+      }
+    }
+  },
+  "order": [
+    "footer",
+    "supporting-menu"
+  ]
+}
