@@ -1,0 +1,14 @@
+Collection page
+- Truncate product titles
+- Padding/Margins like in Badinka
+
+Product page
+- Bold titles 
+- Bold Buttons
+- Bold Varians
+- Bold Tabs
+- Bold Recently and Recommended 
+- Change the Style of the Product Page
+
+Search Bar in Header
+- 1 line of products at most, so the button on the bottom is visible
